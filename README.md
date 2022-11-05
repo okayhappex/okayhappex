@@ -1,16 +1,16 @@
-### Hi there 👋
+![banner](banner.png)
 
-<!--
-**ha2pex/ha2pex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there !
+=====
 
-Here are some ideas to get you started:
+I'm happex. I'm between 12 and 16 years old. I started coding with [Scratch](https://scratch.mit.edu) when I was 8 years old and I started coding in the web at twelve. Now I'm a Frontend Developer (Junior) and I design for fun as I design for "business".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My skils
+-----
+I'm currently learning Python, and I will start learning Java by the next year.
+
+### Programming languages
+![My Skills](https://skillicons.dev/icons?i=html,css,js,py,md&perline=8)
+
+### Working tools
+![My Skills](https://skillicons.dev/icons?i=nodejs,tailwind,vercel,cloudflare,supabase,firebase,github&perline=8)
