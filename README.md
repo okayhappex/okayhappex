@@ -1,4 +1,4 @@
-![banner](https://happex.vercel.app/static/apxbanner.png)
+![banner](https://happex.vercel.app/static/assets/banner.png)
 
 Hello there !
 =====
