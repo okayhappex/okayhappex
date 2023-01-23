@@ -1,7 +1,3 @@
-![banner](https://happex.vercel.app/static/assets/banner.png)
-
-Hello there !
-=====
 
 I'm happex. I'm between 12 and 16 years old. I started coding with [Scratch](https://scratch.mit.edu) when I was 8 years old and I started coding in the web at twelve. Now I'm a Frontend Developer (Junior) and I design for fun as I design for "business".
 
