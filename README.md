@@ -1,4 +1,4 @@
-Hey! It's happex, a French boy in my teens. I started programming when I was 8 and I am in web development since I was 12.
+Hey! It's happex, a French boy in my teens. I've been programming for 7 years and I started web development 2 years ago.
 
 My skills
 -----
@@ -8,10 +8,10 @@ I'm currently learning Python, and I will start learning Java by the next year.
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,py,md&perline=8)
 
 ### Working tools
-![My Tools](https://skillicons.dev/icons?i=nodejs,tailwind,vercel,cloudflare,github&perline=8)
+![My Tools](https://skillicons.dev/icons?i=tailwind,vercel,cloudflare,github,vscode&perline=8)
 
-### Currently learning
-![Learning](https://skillicons.dev/icons?i=java&perline=8)
+### Currently learning / Familiarizing with
+![Learning](https://skillicons.dev/icons?i=nodejs,ts&perline=8)
 
 My projects 
 -----
