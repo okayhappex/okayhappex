@@ -1,4 +1,4 @@
-![Dev Card](devcard.svg) 
+![Dev Card|25%](devcard.svg) 
 
 Hey! It's happex, a French boy in my teens. I've been programming for 7 years and I started web development 2 years ago.
 
