@@ -1,3 +1,5 @@
+![Dev Card](https://api.daily.dev/devcards/25572edb838a4d8696ef947189ade8cd.png?r=7gi) 
+
 Hey! It's happex, a French boy in my teens. I've been programming for 7 years and I started web development 2 years ago.
 
 My skills
