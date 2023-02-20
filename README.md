@@ -10,7 +10,7 @@ I'm currently learning Python, and I will start learning Java by the next year.
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,py,md&perline=8)
 
 ### Working tools
-![My Tools](https://skillicons.dev/icons?i=tailwind,vercel,cloudflare,github,vscode&perline=8)
+![My Tools](https://skillicons.dev/icons?i=tailwind,express,vercel,cloudflare,replit,github,git,vscode&perline=8)
 
 ### Currently learning / Familiarizing with
 ![Learning](https://skillicons.dev/icons?i=nodejs,ts&perline=8)
