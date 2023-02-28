@@ -1,5 +1,4 @@
-<a href="https://app.daily.dev"><img src="devcard.svg" width="200" align="right" /></a>
-<a href="https://github.com/anuraghazra/GitHub-Readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha2pex" width="200" align="right" /></a>
+<a href="https://app.daily.dev"><img src="devcard.svg" width="400" align="right" /></a><br>
 Hey! It's happex, a French boy in my teens. I've been programming for 7 years and I started web development 2 years ago.
 
 My skills
@@ -18,7 +17,8 @@ I'm currently learning Python, and I will start learning Java by the next year.
 My projects 
 -----
 
-* [Space World](https://github.com/ha2pex/space-world/) - An international Discord community (private repository)
-* [Brainy Cats](https://github.com/ha2pex/brainy-cats/) - The website mde for Scratch newbies
+* [Space World](https://github.com/ha2pex/space-world/) - An international Discord community
+* [The Game Hallows](https://github.com/thegamehallows/) - An open cross-platforms community
 * 2 other pending projects
 
+<a href="https://github.com/anuraghazra/GitHub-Readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha2pex" /></a>
