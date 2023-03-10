@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev"><img src="devcard.svg" width="375" align="right" /></a><br>
+<a href="https://app.daily.dev"><img src="devcard.svg" width="200" align="right" /></a><br>
 Hey! It's happex, a French boy in my teens. I've been programming for 7 years and I started web development 2 years ago.
 
 My skills
@@ -9,10 +9,10 @@ My skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,py,md&perline=8)
 
 ### Working tools
-![My Tools](https://skillicons.dev/icons?i=tailwind,vercel,cloudflare,replit,github,git,vscode&perline=8)
+![My Tools](https://skillicons.dev/icons?i=tailwind,nodejs,vercel,cloudflare,replit,github,git,vscode&perline=8)
 
 ### Currently learning / Familiarizing with
-![Learning](https://skillicons.dev/icons?i=ts,nodejs,express,react&perline=8)
+![Learning](https://skillicons.dev/icons?i=ts,express,react&perline=8)
 
 My projects 
 -----
