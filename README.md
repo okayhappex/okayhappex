@@ -3,10 +3,9 @@ Hey! It's happex, a French boy in my teens. I've been programming for 7 years an
 
 My skills
 -----
-<a href="https://github.com/anuraghazra/GitHub-Readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha2pex" /></a>
-
-### Programming languages
+### Languages
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,py,md&perline=8)
+<a href="https://github.com/anuraghazra/GitHub-Readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha2pex&count_private=true&theme=gradient&hide_title=true&layout=compact&bg_color=135,6677ff,0077ff&text_color=ffffff&hide_border=true" /></a>
 
 ### Working tools
 ![My Tools](https://skillicons.dev/icons?i=tailwind,nodejs,vercel,cloudflare,replit,github,git,vscode&perline=8)
