@@ -5,7 +5,6 @@ My skills
 -----
 ### Languages
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,py,md&perline=8)
-<a href="https://github.com/anuraghazra/GitHub-Readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha2pex&count_private=true&theme=gradient&hide_title=true&layout=compact&bg_color=135,6677ff,0077ff&text_color=ffffff&hide_border=true" /></a>
 
 ### Working tools
 ![My Tools](https://skillicons.dev/icons?i=tailwind,nodejs,vercel,cloudflare,replit,github,git,vscode&perline=8)
@@ -16,7 +15,11 @@ My skills
 My projects 
 -----
 
-* [Space World](https://github.com/ha2pex/space-world/) - An international Discord community
+* [Space World](https://github.com/ha2pex/space-world/) - An international Discord community (paused but community is still active)
 * [The Game Hallows](https://github.com/thegamehallows/) - An open cross-platforms community
-* 2 other pending projects
+* [Geopen](https://github.com/ha2pex/geopen) - A brand new pen library on Scratch
 
+My stats
+-----
+
+<a href="https://github.com/anuraghazra/GitHub-Readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha2pex&theme=transparent" /></a>
