@@ -18,6 +18,7 @@ My projects
 * [Space World](https://github.com/ha2pex/space-world/) - An international Discord community (paused but community is still active)
 * [The Game Hallows](https://github.com/thegamehallows/) - An open cross-platforms community
 * [Geopen](https://github.com/ha2pex/geopen) - A brand new pen library on Scratch
+* [Scratch Reporter](https://github.com/ha2pex/scratchreporter) - A Python library to interact with the Scratch api
 
 My stats
 -----
