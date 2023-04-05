@@ -9,7 +9,7 @@ My skills
 ### Tech stack
 ![Frameworks](https://skillicons.dev/icons?i=tailwind,electron&perline=8) <br>
 ![Libraries](https://skillicons.dev/icons?i=nodejs&perline=8) <br>
-![Hosts](https://skillicons.dev/icons?i=vercel,cloudflare&perline=8) <br>
+![Providers](https://skillicons.dev/icons?i=vercel,cloudflare,supabase&perline=8) <br>
 ![Editors](https://skillicons.dev/icons?i=replit,github,git,vscode&perline=8)
 
 ### Currently learning / Familiarizing with
