@@ -13,7 +13,7 @@ My skills
 ![Editors](https://skillicons.dev/icons?i=replit,github,git,vscode&perline=8)
 
 ### Currently learning / Familiarizing with
-![Learning](https://skillicons.dev/icons?i=ts,svelte,express,react&perline=8)
+![Learning](https://skillicons.dev/icons?i=ts,svelte,vue,express,react&perline=8)
 
 My projects 
 -----
