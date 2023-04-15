@@ -7,13 +7,13 @@ My skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,py,md&perline=8)
 
 ### Tech stack
-![Frameworks](https://skillicons.dev/icons?i=tailwind,electron&perline=8) <br>
-![Libraries](https://skillicons.dev/icons?i=nodejs&perline=8) <br>
+![Frameworks](https://skillicons.dev/icons?i=tailwind,electron,vue&perline=8) <br>
+![Libraries](https://skillicons.dev/icons?i=nodejs,vite&perline=8) <br>
 ![Providers](https://skillicons.dev/icons?i=vercel,cloudflare,supabase&perline=8) <br>
 ![Editors](https://skillicons.dev/icons?i=replit,github,git,vscode&perline=8)
 
 ### Currently learning / Familiarizing with
-![Learning](https://skillicons.dev/icons?i=ts,svelte,vue,express,react&perline=8)
+![Learning](https://skillicons.dev/icons?i=ts,svelte,express,react&perline=8)
 
 My projects 
 -----
@@ -25,4 +25,4 @@ My projects
 My stats
 -----
 
-<a href="https://github.com/anuraghazra/GitHub-Readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha2pex&theme=transparent" /></a>
+<a href="https://github.com/anuraghazra/GitHub-Readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha2pex&theme=transparent&count_private=true" /></a>
