@@ -7,13 +7,12 @@ My skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,py,md&perline=8)
 
 ### Tech stack
-![Frameworks](https://skillicons.dev/icons?i=tailwind,electron,vue&perline=8) <br>
-![Libraries](https://skillicons.dev/icons?i=nodejs,vite&perline=8) <br>
+![Tech Stack](https://skillicons.dev/icons?i=nodejs,vite,tailwind,electron,express,vue&perline=8) <br>
 ![Providers](https://skillicons.dev/icons?i=vercel,cloudflare,supabase&perline=8) <br>
 ![Editors](https://skillicons.dev/icons?i=replit,github,git,vscode&perline=8)
 
 ### Currently learning / Familiarizing with
-![Learning](https://skillicons.dev/icons?i=ts,svelte,express,react&perline=8)
+![Learning](https://skillicons.dev/icons?i=ts,svelte,react&perline=8)
 
 My projects 
 -----
