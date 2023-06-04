@@ -17,9 +17,8 @@ My skills
 My projects 
 -----
 
-* [The Game Hallows](https://github.com/thegamehallows/) - An open cross-platforms community
-* [Geopen](https://github.com/ha2pex/geopen) - A brand new pen library on Scratch
-* [Scratch Reporter](https://github.com/ha2pex/scratchreporter) - A Python library to interact with the Scratch api
+* [The Game Hallows](https://gamehallows.pages.dev) - An open cross-platforms community (archived)
+* [Geopen](https://geopen.vercel.app) - A brand new pen library on Scratch (archived)
 
 My stats
 -----
