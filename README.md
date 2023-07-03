@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev"><img src="devcard.svg" width="300" align="right" /></a><br><br>
+<a href="https://app.daily.dev"><img src="devcard.svg" width="320" align="right" /></a><br><br>
 Hey! It's happex, a French boy in my teens. I've been programming for 7 years and I started web development 2 years ago.
 
 My skills
