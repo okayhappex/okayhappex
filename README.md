@@ -7,7 +7,7 @@ My skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,py,md&perline=8)
 
 ### Tech stack
-![Tech Stack](https://skillicons.dev/icons?i=nodejs,vite,tailwind,electron,express,vue,next&perline=8) <br>
+![Tech Stack](https://skillicons.dev/icons?i=nodejs,vite,tailwind,electron,express,flask,vue,next&perline=8) <br>
 ![Providers](https://skillicons.dev/icons?i=vercel,cloudflare,supabase&perline=8) <br>
 ![Editors](https://skillicons.dev/icons?i=replit,github,git,vscode&perline=8) <br><br>
 ![Other](https://skillicons.dev/icons?i=discord,bots&perline=8)
