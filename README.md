@@ -9,17 +9,18 @@ My skills
 ### Tech stack
 ![Tech Stack](https://skillicons.dev/icons?i=nodejs,vite,tailwind,electron,express,flask,vue,next&perline=8) <br>
 ![Providers](https://skillicons.dev/icons?i=vercel,cloudflare,supabase&perline=8) <br>
-![Editors](https://skillicons.dev/icons?i=replit,github,git,vscode&perline=8) <br><br>
-![Other](https://skillicons.dev/icons?i=discord,bots&perline=8)
+![Editors](https://skillicons.dev/icons?i=replit,github,git,vscode,figma&perline=8) <br><br>
+![Other](https://skillicons.dev/icons?i=discord,bots,npm&perline=8)
 
 ### Currently learning / Familiarizing with
-![Learning](https://skillicons.dev/icons?i=ts,svelte,react&perline=8)
+![Learning](https://skillicons.dev/icons?i=ts,svelte,react,powershell,bash&perline=8)
 
 My projects 
 -----
 
 * [The Game Hallows](https://gamehallows.pages.dev) - An open cross-platforms community (archived)
 * [Lumo](https://github.com/okayhappex/Lumo) - A french Discord bot
+* [ArrowBit](https://github.com/arr-setup)
 
 My stats
 -----
