@@ -1,24 +1,23 @@
 <a href="https://app.daily.dev"><img src="devcard.svg" width="320" align="right" /></a><br><br>
 Hello, c'est happex
 
-My skills
------
-### Langages
+
+## Langages
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,py,md&perline=8)
 
-### Tech stack
+## Tech stack
 ![Tech Stack](https://skillicons.dev/icons?i=nodejs,vite,tailwind,electron,express,flask,vue,next&perline=8) <br>
 ![Hébergeurs](https://skillicons.dev/icons?i=vercel,cloudflare,supabase&perline=8) <br>
 ![Éditeurs](https://skillicons.dev/icons?i=replit,github,git,vscode,figma&perline=8) <br><br>
 ![Autres](https://skillicons.dev/icons?i=discord,bots,npm&perline=8)
 
-### En apprentissages / Familiarisation
+## En apprentissages / Familiarisation
 ![Learning](https://skillicons.dev/icons?i=ts,svelte,react,powershell,bash&perline=8)
 
 Projets
 -----
 
-* [Nation](https://github.com/1nserv) - An open cross-platforms community (archived)
+* [Nation](https://github.com/1nserv)
 * [World War III](https://github.com/1scr/MoR.bot)
 * [ArrowBit](https://github.com/arr-setup)
 
