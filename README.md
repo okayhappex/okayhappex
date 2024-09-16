@@ -3,7 +3,7 @@ Hello, c'est happex
 
 
 ## Langages
-![My Skills](https://skillicons.dev/icons?i=html,css,js,py,md&perline=8)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,md&perline=8)
 
 ## Tech stack
 ![Tech Stack](https://skillicons.dev/icons?i=nodejs,vite,tailwind,electron,express,flask,vue,next&perline=8) <br>
@@ -12,7 +12,7 @@ Hello, c'est happex
 ![Autres](https://skillicons.dev/icons?i=discord,bots,npm&perline=8)
 
 ## En apprentissages / Familiarisation
-![Learning](https://skillicons.dev/icons?i=ts,svelte,react,powershell,bash&perline=8)
+![Learning](https://skillicons.dev/icons?i=svelte,react,powershell,bash&perline=8)
 
 Projets
 -----
