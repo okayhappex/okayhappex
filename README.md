@@ -1,4 +1,4 @@
-![stats](https://github-readme-stats.vercel.app/api?username=okayhappex&theme=ambient_gradient&show_icons=true)
+![stats](https://github-widgetbox.vercel.app/api/profile?username=okayhappex&data=followers,repositories,stars,commits)
 
 
 Lycéen en terminale et musicien (piano & batterie) passionné de programmation et de photographie
