@@ -4,7 +4,7 @@
 Lycéen en terminale et musicien (piano & batterie) passionné de programmation et de photographie
 
 ## Langages
-<a href="https://github.com/anuraghazra/GitHub-Readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&username=okayhappex&theme=transparent" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&username=okayhappex&theme=transparent"><img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&username=okayhappex&theme=transparent" /></a>
 
 ## Tech stack
 ![Tech Stack](https://skillicons.dev/icons?i=nodejs,vite,tailwind,electron,express,flask,vue,next&perline=8) <br>
