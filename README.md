@@ -18,7 +18,7 @@ Lycéen en terminale et musicien (piano & batterie) passionné de programmation 
 En cours
 -----
 
-### [Nation](https://github.com/1nserv) (en pause)
+### [Nation](https://github.com/1nserv)
 On réalise l'idée de [Kheops](https://github.com/DebilityKheops) de créer une sorte d'expérience sociale dans laquelle on créerait un serveur Discord 100% démocratique sans être pour autant une anarchie. On a commencé à la développer à la suite d'un canular sur un [serveur déjà existant](https://dsc.gg/1scr)
 
 ### [World War III](https://github.com/1scr/MoR.bot)
