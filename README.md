@@ -13,7 +13,7 @@ Lycéen en terminale et musicien (piano & batterie) passionné de programmation 
 ![Autres](https://skillicons.dev/icons?i=discord,bots,npm&perline=8)
 
 ## En apprentissage / Familiarisation
-![Learning](https://skillicons.dev/icons?i=svelte,react,powershell,bash&perline=8)
+![Learning](https://skillicons.dev/icons?i=svelte,react,powershell,bash,c&perline=8)
 
 En cours
 -----
