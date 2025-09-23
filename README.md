@@ -1,7 +1,7 @@
 ![stats](https://github-widgetbox.vercel.app/api/profile?username=okayhappex&data=followers,repositories,stars,commits)
 
 
-Lycéen en terminale et musicien (piano & batterie) passionné de programmation et de photographie
+Etudiant en BUT MMI et musicien (piano & batterie) passionné de programmation et de photographie
 
 ## Langages
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&username=okayhappex&theme=transparent"><img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&username=okayhappex&theme=transparent" /></a>
