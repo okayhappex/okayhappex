@@ -18,11 +18,8 @@ Etudiant en BUT MMI et musicien (piano & batterie) passionné de programmation e
 En cours
 -----
 
-### [Nation](https://github.com/1nserv)
-On réalise l'idée de [Kheops](https://github.com/DebilityKheops) de créer une sorte d'expérience sociale dans laquelle on créerait un serveur Discord 100% démocratique sans être pour autant une anarchie. On a commencé à la développer à la suite d'un canular sur un [serveur déjà existant](https://dsc.gg/1scr)
-
 ### [World War III](https://github.com/1scr/MoR.bot)
 Adaptation vers Discord du RISK Event sur le serveur déjà existant dont j'ai parlé au-dessus.
 
-### [ArrowBit](https://github.com/arr-setup)
+### [ArrowBit](https://github.com/arrowbitlang)
 C'est un projet qui est passé d'un simple shell décoratif sur un projet Scratch à un vrai langage de programmation exécutable sur un ordi. Le projet est en pause sur Github mais continue à être activement développé localement.
